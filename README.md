@@ -102,7 +102,7 @@ int main()
 ```
 
 ## Output:
-
+![ElGamal Algorithm Output](https://raw.githubusercontent.com/shivu1405/EX-NO-12-ELGAMAL-ALGORITHM/833dd0b896da0a5fa99ee24f0906f127fae60bca/Screenshot%202026-03-16%20090450.png)
 
 ## Result:
 The program is executed successfully.
